@@ -62,7 +62,7 @@ Now  can create visuals based on the integrated data.
 
 - When ready, go to **File > Publish** and select  workspace to publish the report to Power BI Service.
 
-Dashboardlink:https://app.powerbi.com/groups/me/reports/a1436f76-c29b-40a6-a4f1-a5b486cf56bd/ReportSectione795d981b26a081d560e?experience=power-bi
+Output Report::
 
 
 ![Data integration from multiple sources output](https://github.com/user-attachments/assets/82a6ed72-7ff8-4b45-bc9b-2e8e509e5293)

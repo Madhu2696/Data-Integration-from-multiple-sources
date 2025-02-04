@@ -25,14 +25,14 @@
   - Ensure the relationship is **one-to-many** (one customer can have many sales).
 
 #### Step 3: Data Integration and Calculation
-Now that the data is integrated, you can create new columns or measures.
+Now that the data is integrated,  can create new columns or measures.
 Measure:
       1.Total Sales = SUM(SalesData[SalesAmount])
       2.Average Date of birth = AVERAGE(CustomerData[Date of birth])
  
 
 #### Step 4: Build Visualizations
-Now you can create visuals based on the integrated data.
+Now  can create visuals based on the integrated data.
 
 1.  Sales by Region:
    - **Axis**: Region (from the Information table).
@@ -60,7 +60,7 @@ Now you can create visuals based on the integrated data.
 
 #### Step 6: Finalizing and Publishing the Report
 
-- When ready, go to **File > Publish** and select your workspace to publish the report to Power BI Service.
+- When ready, go to **File > Publish** and select  workspace to publish the report to Power BI Service.
 
 Dashboardlink:https://app.powerbi.com/groups/me/reports/a1436f76-c29b-40a6-a4f1-a5b486cf56bd/ReportSectione795d981b26a081d560e?experience=power-bi
 
